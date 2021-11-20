@@ -8,7 +8,7 @@
 
 
 
-##4.github和gitlab都是通过webhook进行双向通信，
+##4.github和gitlab都是通过webhook进行双向通信，了
 
 ## 5.迁移需要改动的地方：
 
